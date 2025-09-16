@@ -108,5 +108,5 @@ export function asignar() {
 
     alumnos[indiceAlumnos].idCarrera = parseInt(idCarrera);
 
-    console.log(`Se ha asignado correctamente la carrera al alumno \n Carrera: ${carreras[indiceCarrera]} \n Alumno: ${alumnos[indiceAlumnos]}`);
+    console.log(`Se ha asignado correctamente la carrera al alumno`);
 }
